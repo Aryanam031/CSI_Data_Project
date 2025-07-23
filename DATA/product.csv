@@ -1,0 +1,11 @@
+product_id,product_name,price,description,category
+P001,Smartphone,699.99,Latest model smartphone with 5G,Electronics
+P002,Laptop,1199.5,"15-inch display, 16GB RAM",Electronics
+P003,Headphones,199.99,Noise-cancelling over-ear headphones,Accessories
+P004,Running Shoes,129.99,Lightweight running shoes,Sportswear
+P005,Coffee Maker,89.99,Automatic drip coffee maker,Home Appliances
+P006,Backpack,59.99,Water-resistant travel backpack,Accessories
+P007,Smartwatch,299.99,Fitness tracker and notification system,Electronics
+P008,Electric Toothbrush,49.99,Rechargeable with multiple modes,Health
+P009,Office Chair,149.99,Ergonomic mesh office chair,Furniture
+P010,Blender,79.99,High-speed blender for smoothies,Home Appliances
